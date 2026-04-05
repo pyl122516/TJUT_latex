@@ -1,0 +1,18 @@
+# 编译临时文件
+*.aux
+*.bbl
+*.blg
+*.log
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.thm
+*.toc
+*.pdf
+
+# 其他临时文件
+*.fls
+*.fdb_latexmk
+*.xdv
+*.dvi
