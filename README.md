@@ -9,7 +9,7 @@
 ## 写作
 1.正文部分，在TJUT\figures\chapter1、chapter2...
 
-2.图片放入TJUT\figures\，如\TJUT\figures\TUT_LOGO.jpg。\
+2.图片放入TJUT\figures\，如\TJUT\figures\TUT_LOGO.jpg。
 
 3.参考文献放入TJUT\figures\reference.bib
 
